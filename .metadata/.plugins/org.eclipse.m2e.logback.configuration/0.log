@@ -1,0 +1,48 @@
+2018-02-03 13:48:46,435 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-02-03 13:49:27,103 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\pom.xml
+2018-02-03 13:49:28,940 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoProject:DemoProject:0.0.1-SNAPSHOT @ C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\pom.xml.
+2018-02-03 13:49:30,239 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/main/java
+2018-02-03 13:49:30,252 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/test/java
+2018-02-03 13:49:31,763 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2018-02-03 13:49:32,433 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:49:32,433 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\main\resources
+2018-02-03 13:49:32,436 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:49:32,436 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\test\resources
+2018-02-03 13:49:50,263 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:49:50,264 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\main\resources
+2018-02-03 13:49:50,266 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:49:50,267 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\test\resources
+2018-02-03 13:50:20,282 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Demo:Demo_Project:0.0.1-SNAPSHOT @ C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\pom.xml.
+2018-02-03 13:50:21,760 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:50:21,761 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\main\resources
+2018-02-03 13:50:21,763 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:50:21,763 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\test\resources
+2018-02-03 13:50:23,995 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:50:23,996 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\main\resources
+2018-02-03 13:50:23,997 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:50:23,998 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\test\resources
+2018-02-03 13:50:28,122 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:50:28,123 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\main\resources
+2018-02-03 13:50:28,125 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:50:28,125 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\test\resources
+2018-02-03 13:51:07,549 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:51:07,550 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\main\resources
+2018-02-03 13:51:07,552 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:51:07,553 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\test\resources
+2018-02-03 13:51:58,502 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:51:58,503 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\main\resources
+2018-02-03 13:51:58,505 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:51:58,506 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\test\resources
+2018-02-03 13:52:04,372 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-03 13:52:05,166 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Demo:Demo_Project:0.0.1-SNAPSHOT @ C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\pom.xml.
+2018-02-03 13:52:06,146 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/main/java
+2018-02-03 13:52:06,148 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/test/java
+2018-02-03 13:52:06,505 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-02-03 13:52:07,170 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:52:07,171 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\main\resources
+2018-02-03 13:52:07,173 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:52:07,173 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\test\resources
+2018-02-03 13:57:28,924 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:57:28,924 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\main\resources
+2018-02-03 13:57:28,927 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-03 13:57:28,927 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pdalwani\eclipse-workspace\MyFirstProject\DemoProject\src\test\resources
